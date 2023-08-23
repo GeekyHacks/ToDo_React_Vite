@@ -1,4 +1,4 @@
-# ToDoList_React
+# ToDo_React_Vite
 
 <a name="readme-top"></a>
 
@@ -6,8 +6,8 @@
 
   <br/>
 
-  <h3><b>ToDoList_React</b></h3>
-  <p>In this project I will be using webpack to bundle my code, the project is about using multiple APIs to show and manipulate data. Styling is done with sass. Jest testing is used for the project. It will include mainly JS, HTML, Sass, and JSON</p>
+  <h3><b>ToDo_React_Vite</b></h3>
+  <p>In this repo I demonistrate setting up a ToDo react app using Vite, I created a navbar that can be used for any future projects, in addition to vite package, it includes eslint, stylelint, Jest testing, and sass packages  </p>
 
 <div align="center">
   <img src="assests/images/Personal-portfolio-with-play.gif"  alt="Personal portfolio video">
@@ -19,11 +19,11 @@
 
 # 📗 Table of Contents
 
-- [ToDoList_React](#ToDoList_React)
+- [ToDo_React_Vite](#ToDo_React_Vite)
 - [📗 Table of Contents](#-table-of-contents)
-- [📖 ToDoList_React< ](#ToDoList_React)
+- [📖 ToDo_React_Vite< ](#ToDo_React_Vite)
 - [🚀 Live Demo ](#-live-demo-)
-- [📖 ToDoList_React< ](#ToDoList_React)
+- [📖 ToDo_React_Vite< ](#ToDo_React_Vite)
   - [🛠 Built With HTML, CSS and JavaScript](#-built-with-html-css-and-javascript)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
@@ -39,16 +39,16 @@
   - [❓ FAQ ](#-faq-)
   - [📝 License ](#-license-)
 
-# 📖 ToDoList_React< <a name="about-project"></a>
+# 📖 ToDo_React_Vite< <a name="about-project"></a>
 
-**ToDoList_React<e**
-In this project I will be using webpack to bundle my code, the project is about using multiple APIs to show and manipulate data. Styling is done with sass. Jest testing is used for the project. It will include mainly JS, HTML, Sass, and JSON.
+**ToDo_React_Vite<e**
+In this repo I demonistrate setting up a ToDo react app using Vite, I created a navbar that can be used for any future projects, in addition to vite package, it includes eslint, stylelint, Jest testing, and sass packages 
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://geekyhacks.github.io/ToDoList_React/)
+- [Live Demo Link](https://geekyhacks.github.io/ToDo_React_Vite/)
 
-# 📖 ToDoList_React <a name="live-demo"></a>
+# 📖 ToDo_React_Vite <a name="live-demo"></a>
 
 ## 🛠 Built With <a name="built-with">HTML, CSS and JavaScript</a>
 
@@ -81,7 +81,7 @@ To get a local copy up and running, follow these steps:
 
 - Open your Terminal in your VSCode.
 - Navigate to the desired directory[folder] to which you want to clone the repository to
-- [Copy & Paste] git clone you find in the code button https://github.com/GeekyHacks/ToDoList_React.git
+- [Copy & Paste] git clone you find in the code button https://github.com/GeekyHacks/ToDo_React_Vite.git
 
 ### Prerequisites
 
@@ -96,13 +96,13 @@ In order to run this project you need:
 
 Clone this repository to your desired folder:
 
-- git clone https://github.com/GeekyHacks/ToDoList_React.git
+- git clone https://github.com/GeekyHacks/ToDo_React_Vite.git
 
 Example commands:
 
 ```sh
   cd my-folder
-  git clone https://github.com/GeekyHacks/ToDoList_React.git
+  git clone https://github.com/GeekyHacks/ToDo_React_Vite.git
 
 ```
 
@@ -116,8 +116,11 @@ Must-Install-Project-with-the-Following-Programmes:
 - [Git](https://git-scm.com/downloads)
 - [Node.js](https://nodejs.org/en/download)
 - [npm install](https://docs.npmjs.com/cli/v8/commands/npm-install)
-- [webpack](https://webpack.js.org/guides/installation/)
+- [Vite](https://vitejs.dev/)
 - [Jest](https://jestjs.io/docs/getting-started)
+- [eslint](https://eslint.org/)
+- [stylelint](https://stylelint.io/user-guide/get-started/)
+- [Sass](https://sass-lang.com/install/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -139,7 +142,7 @@ Must-Install-Project-with-the-Following-Programmes:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/GeekyHacks/ToDoList_React/issues).
+Feel free to check the [issues page](https://github.com/GeekyHacks/ToDo_React_Vite/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
